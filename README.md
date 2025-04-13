@@ -9,14 +9,14 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on learning-based-projects<br>🌱 I’m currently learning Next.js
+🔭 I’m currently working on learning-based-projects<br>🌱 I’m currently learning Three.js
 
 
 # 💻 Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,bootstrap,tailwind,sass,babel,webpack,vite,github,notion,discord,figma,postman,vscode,firebase,git,npm,bash,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,jest,bootstrap,tailwind,sass,babel,webpack,vite,github,notion,discord,figma,postman,vscode,webstorm,sentry,firebase,git,npm,bash,&theme=dark" />
   </a>
 </p>
 
