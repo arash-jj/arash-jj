@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Im+Arash+a+Frontend+Developer" alt="Typing SVG" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Im+Arash+a+Web+Developer" alt="Typing SVG" >
 </div>
 
 # 💫 About Me:
@@ -24,7 +24,13 @@
 <div align="center">
    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arash-jj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img width="49%" src="https://streak-stats.demolab.com/?user=arash-jj&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+    <!--<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash-jj&hide_progress=true&theme=github_dark" alt="GitHub Language"/>-->
 </div>
+
+<!--<div align="center">
+    <h2>Activity</h2>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arash-jj&theme=github-compact" alt="Activity Graph"/>
+</div>-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arash-jj&icon=0&color=0)](https://visitcount.itsvg.in)
