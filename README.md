@@ -5,11 +5,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Im+Arash+a+Web+Developer" alt="Typing SVG" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=190&lines=Hello!+Im+Arash" alt="Typing SVG" >
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on learning-based-projects<br>🌱 I’m currently learning Three.js
+ - ⚙ Front-end Developer
+ - 💻 Working on Learing Based Projects
+ - ❤️ I Enjoy of Making Websites and Tools That make Life Easier
 
 
 # 💻 Tech Stack:
