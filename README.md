@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,jest,bootstrap,tailwind,sass,babel,webpack,vite,github,notion,discord,figma,postman,vscode,webstorm,sentry,vercel,apollo,firebase,git,graphql,npm,bash,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,jest,cypress,bootstrap,tailwind,sass,babel,webpack,vite,github,notion,discord,figma,postman,vscode,webstorm,sentry,vercel,apollo,firebase,git,graphql,npm,bash,&theme=dark" />
   </a>
 </p>
 
