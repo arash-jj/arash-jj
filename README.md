@@ -35,6 +35,9 @@ I'm a **self-taught Frontend Developer** who enjoys turning ideas into **fast, a
 ### Backend & APIs
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,firebase&theme=dark)
 
+### DevOps & CI/CD
+![Backend](https://skillicons.dev/icons?i=docker,kubernetes&theme=dark)
+
 ### Testing & Tooling
 ![Tools](https://skillicons.dev/icons?i=jest,cypress,vite,webpack,babel,git,github,npm,bash&theme=dark)
 
