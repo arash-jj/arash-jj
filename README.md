@@ -32,13 +32,13 @@ I'm a **self-taught Frontend Developer** who enjoys turning ideas into **fast, a
 ### Styling
 ![Styling](https://skillicons.dev/icons?i=tailwind,sass,bootstrap,figma&theme=dark)
 
-### Backend & APIs
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,firebase&theme=dark)
+### Backend & APIs 
+![Backend](https://skillicons.dev/icons?i=nodejs,bun,express,mongodb,redis,graphql,firebase&theme=dark)
 
 ### DevOps & CI/CD
-![Backend](https://skillicons.dev/icons?i=docker,kubernetes&theme=dark)
+![Backend](https://skillicons.dev/icons?i=docker,kubernetes,github&theme=dark)
 
 ### Testing & Tooling
-![Tools](https://skillicons.dev/icons?i=jest,cypress,vite,webpack,babel,git,github,npm,bash&theme=dark)
+![Tools](https://skillicons.dev/icons?i=jest,cypress,vite,webpack,babel,git,npm,pnpm,bash&theme=dark)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer" width="100%">
