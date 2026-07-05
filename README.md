@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=header" width="100%">
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=190&lines=Hello!+Im+Arash" alt="Typing SVG" >
-</div>
+</div> -->
 
 ---
 
@@ -11,16 +11,14 @@
 
 
 <p align="left">
-    Frontend Developer | React & Next.js  <br/>
-    Building full-stack projects with Node.js & Express <br/>
+    Full stack web developer
 </p>
 
-I'm a **self-taught Frontend Developer** who enjoys turning ideas into **fast, accessible, and clean web experiences**.
+I'm a **self-taught Full stack web deverloper** who enjoys turning raw ideas into **something that actualy works**.
 
-- ⚛️ Focused on **React & Next.js**
-- 🧠 Learning by building real-world projects
-- 🎯 Care about **performance, UI consistency, and clean code**
-- 🚀 Currently expanding into backend & full-stack concepts
+- ⚛️ Focused on **React & Next.js** ecosystems
+- 🧠 Learning and gathering experience by building real-world projects
+- 🚀 Planing to expand into React Native
 
 ---
 
